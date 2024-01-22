@@ -6,4 +6,5 @@ Stuff I learned by doing this -
 <ol>
     <li>Basic HTML</li>
     <li>Basic Git</li>
+    <li>Basic CSS</li>
 </ol>
